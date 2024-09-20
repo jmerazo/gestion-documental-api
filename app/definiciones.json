@@ -1,0 +1,48 @@
+{
+    "definiciones": [
+        {
+            "id": 0,
+            "tipo": "titulo",
+            "definicion": "Peticiones, Quejas, Reclamos y Denuncias"
+        },
+        {
+            "id": 1,
+            "tipo": "subtitulo",
+            "definicion": "A continuación encontrará las diferentes definiciones de Peticiones, Quejas, Reclamos y Denuncias - PQRD´s, haciendo clic en el enlace correspondiente."
+        },
+        {
+            "id": 2,
+            "tipo": "Petición",
+            "definicion": "La peticion o derecho de peticion es aquel derecho que tiene toda persona para solicitar o reclamar ante las autoridades competentes por razones de interés general o interés particular para elevar solicitudes respetuosas de información y/o consulta y para obtener pronta resolución de las mismas."
+        },
+        {
+            "id": 3,
+            "tipo": "Queja",
+            "definicion": "La queja es cualquier expresión verbal, escrita o en medio electrónica de insatisfacción con la conducta o la acción de los servidores públicos o de los particulares que llevan a cabo una función estatal y que requiere una respuesta. (Las quejas deben ser resueltas, atendidas o contestadas dentro de los quince (15) días siguientes a la fecha de su presentación."
+        },
+        {
+            "id": 4,
+            "tipo": "Reclamo",
+            "definicion": "EL reclamo es cualquier expresión verbal, escrita o en medio electrónico, de insatisfacción referida a la prestación de un servicio o la deficiente atención de una autoridad pública, es decir, es una declaración formal por el incumplimiento de un derecho que ha sido perjudicado o amenazado, ocasionado por la deficiente prestación o suspensión injustificada del servicio. (Los reclamos deben ser resueltos, atendidos o contestados dentro de los quince (15) días siguientes a la fecha de su presentación)."
+        },
+        {
+            "id": 5,
+            "tipo": "Sugerencia",
+            "definicion": "La sugerencia es cualquier expresión verbal, escrita o en medio electrónico de recomendación entregada por el ciudadano, que tiene por objeto mejorar el servicio que se presta en cada una de las dependencias de la Gobernación del Putumayo, racionalizar el empleo de los recursos o hacer más participativa la gestión pública. (En un término de diez (10) días se informará sobre la viabilidad de su aplicación)."
+        },
+        {
+            "id": 6,
+            "tipo": "TENGA EN CUENTA:",
+            "definicion": "Una vez diligenciada su solicitud el sistema le asignará un código el cual se enviará a su correo electrónico. Este le permitirá consultar el estado de su pqrd.",
+            "definicion2": "Recuerde que las peticiones, quejas, recursos o solicitudes serán atendidos dentro de los quince (15) días hábiles siguientes a la fecha de su radicación."
+        },
+        {
+            "id": 7,
+            "tipo": "eleccion",
+            "definicion": "Si desea ingresar una petición, queja, reclamo o sugerencia; presione el botón ",
+            "resaltar": "Nueva PQRD",
+            "definicion2": " Si desea consultar una PQRD enviada previamente, ingrese el número de radicado y el códido de la PQRD y presione el botón ",
+            "resaltar2": "Buscar"
+        }
+    ]
+}

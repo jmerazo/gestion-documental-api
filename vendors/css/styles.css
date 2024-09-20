@@ -1,0 +1,111 @@
+/*para ocupar todo el ancho*/
+.container-fluid {
+  height: 100%;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.puntero{
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#def{
+	font-size: 14px;
+}
+
+#ColorFontGray{
+      color: gray;
+  }
+
+#iCheck{
+	color: green;
+}
+
+#iCheck2{
+    color: green;
+}
+
+/* card de opcion en pqrdTemplates y clasificacion en radicar */
+#cardHeader {
+    border: 1px solid #FF5733;
+    color: #A75600;
+    background: #FF9333;
+    border-radius: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 8px;
+}
+
+#cardBody {
+    border: 1px solid #FF5733;
+    background: #FFF0CD;
+    border-radius: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 8px;
+}
+
+
+/* cards radicar info y detalle pqrdTemplates */
+#cardPqrdHeader {
+    border: 1px solid #B8B9BE;
+    color: #68696B;
+    background: #B8B9BE;
+    border-radius: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 8px;
+}
+
+#cardPqrdBody {
+    border: 1px solid #B8B9BE;
+    background: #FFFFFF;
+    border-radius: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 8px;
+}
+
+#cardBuscarHeader {
+    border: 1px solid #6B76EE;
+    color: #003399;
+    background: #868DDE;
+    border-radius: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 8px;
+}
+
+#cardBuscarBody {
+    border: 1px solid #6B76EE;
+    background: #F6F6FA;
+    border-radius: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 8px;
+}
+
+/* divisores de buscar pqrd*/
+
+#divBuscar1{
+    background: #868DDE;
+    color: whitesmoke;
+}
+
+#divBuscar2{
+    background: #6AD15E;
+    color: whitesmoke;
+}
+
+#divBuscar3{
+    background: #F07D59;
+    color: whitesmoke;
+}
